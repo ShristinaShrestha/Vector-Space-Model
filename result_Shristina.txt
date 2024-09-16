@@ -1,0 +1,35 @@
+
+Cosine similarities for query 'Healthy eating AND disease prevention':
+Document 3: 0.0279
+Document 5: 0.0300
+Document 4: 0.0355
+Document 2: 0.1310
+Document 1: 0.2679
+
+Cosine similarities for query 'Vitamins in fruits AND immunity':
+Document 3: 0.0311
+Document 5: 0.0396
+Document 4: 0.0415
+Document 1: 0.0453
+Document 2: 0.3867
+
+Cosine similarities for query 'Whole grains: cholesterol OR sugar':
+Document 1: 0.0000
+Document 2: 0.0000
+Document 5: 0.0246
+Document 4: 0.0765
+Document 3: 0.1859
+
+Cosine similarities for query 'Plant OR animal proteins':
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 5: 0.0327
+Document 4: 0.1332
+
+Cosine similarities for query 'Processed food AND heart/weight':
+Document 3: 0.0391
+Document 4: 0.0497
+Document 1: 0.0513
+Document 2: 0.0654
+Document 5: 0.1600

@@ -1,0 +1,6 @@
+"Fruits and vegetables are vital components of a well-rounded diet. 
+These foods are rich in vitamins (like vitamin C and vitamin A), minerals (such as potassium and folate), and antioxidants, which are known to support immune function,
+reduce oxidative stress, and lower the risk of chronic conditions like heart disease and certain cancers. Fiber from fruits and vegetables aids digestion, 
+regulates bowel movements, and helps maintain a healthy weight by keeping you full for longer. Leafy greens such as spinach and kale, cruciferous vegetables like 
+broccoli and cauliflower, and colorful fruits like berries, oranges, and apples are particularly beneficial. Including a variety of fruits and vegetables in daily 
+meals can improve overall health and reduce the risk of nutrient deficiencies."
